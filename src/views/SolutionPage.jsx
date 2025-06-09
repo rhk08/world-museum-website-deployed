@@ -233,7 +233,7 @@ const SolutionPage = () => {
         <div style={{ height: 20 }}></div>
         <div className='sp-video-wrapper'>
           <video
-            src="../videos/m2-res_1080p.mp4"
+            src="videos/m2-res_1080p.mp4"
             autoPlay
             muted
             loop
@@ -1523,7 +1523,7 @@ const SolutionPage = () => {
 
         <div data-speed="0.5" className='video-wrapper'>
           <video
-            src="../videos/world_museum_video.mp4"
+            src="videos/world_museum_video.mp4"
             autoPlay
             muted
             loop

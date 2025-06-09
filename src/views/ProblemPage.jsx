@@ -558,7 +558,7 @@ const Problempage = () => {
 
         <div data-speed="0.5" className='video-wrapper'>
           <video
-            src="../videos/world_museum_video.mp4"
+            src="videos/world_museum_video.mp4"
             autoPlay
             muted
             loop

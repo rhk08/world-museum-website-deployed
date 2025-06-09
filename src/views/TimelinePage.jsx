@@ -791,7 +791,7 @@ const TimelinePage = () => {
 
           <div className="tp-c-l-image-2 timeline-animated-element">
             <video
-              src="../videos/gaussian-splat-video.mp4"
+              src="videos/gaussian-splat-video.mp4"
               autoPlay
               muted
               loop
@@ -823,7 +823,7 @@ const TimelinePage = () => {
           <div className="tp-c-r-image-2 timeline-animated-element">
 
             <video
-              src="../videos/vr-gs.mp4"
+              src="videos/vr-gs.mp4"
               autoPlay
               muted
               loop
@@ -1004,7 +1004,7 @@ const TimelinePage = () => {
           <div className="tp-f-r-image-1 timeline-animated-element">
 
             <video
-              src="../videos/tour-gs.mp4"
+              src="videos/tour-gs.mp4"
               autoPlay
               muted
               loop
@@ -1230,7 +1230,7 @@ const TimelinePage = () => {
 
         <div data-speed="0.5" className='video-wrapper'>
           <video
-            src="../videos/world_museum_video.mp4"
+            src="videos/world_museum_video.mp4"
             autoPlay
             muted
             loop
